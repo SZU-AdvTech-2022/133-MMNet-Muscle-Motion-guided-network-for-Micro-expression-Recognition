@@ -1,0 +1,6 @@
+@article{li2022mmnet,
+  title={MMNet: Muscle Motion-guided network for Micro-expression Recognition},
+  author={Li, Hanting and Sui, Mingzhe and Zhu, Zhaoqing and Zhao, Feng},
+  journal={arXiv preprint arXiv:2201.05297},
+  year={2022}
+}
